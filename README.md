@@ -10,4 +10,7 @@ The images were all given alt descriptions.  The three picture ones were given a
 
 In the style sheet, several classes replicated the same code, so they were consolidated.  New generic classes were created to replace the specific classes that were duplicates.  Any other code that was a replication was simplified and combined.  The order of the code was moved as well to group each section with it's appropriate code.  Comments were added to designate the different areas the styles were affecting.
 
-[The live webpage can be viewed here.](https://kunkelkevin.github.io/Refractor-challenge/) I had difficulty understanding Git at first and ended up deleting the repository to start over after I was finished refractoring the code.  Therefore, I only have one commit for my code.
+[The live webpage can be viewed here.](https://kunkelkevin.github.io/Refractor-challenge/) I had difficulty understanding Git at first and ended up deleting the repository to start over after I was finished refractoring the code.  Therefore, I only have one commit for my code. Heare are the screenshots of the page:
+
+![Header with nav bar and Hero section](Develop/assets/images/screenshot1.png "Header with nav bar and Hero section")
+![Content, benefits and footer sections](Develop/assets/images/screenshot1.png "Content, benefits and footer sections")
