@@ -12,5 +12,5 @@ In the style sheet, several classes replicated the same code, so they were conso
 
 [The live webpage can be viewed here.](https://kunkelkevin.github.io/Refractor-challenge/) I had difficulty understanding Git at first and ended up deleting the repository to start over after I was finished refractoring the code.  Therefore, I only have one commit for my code. Heare are the screenshots of the page:
 
-![Header with nav bar and Hero section](Develop/assets/images/screenshot1.png "Header with nav bar and Hero section")
-![Content, benefits and footer sections](Develop/assets/images/screenshot1.png "Content, benefits and footer sections")
+![Header with nav bar and Hero section](assets/images/screenshot1.png "Header with nav bar and Hero section")
+![Content, benefits and footer sections](assets/images/screenshot2.png "Content, benefits and footer sections")
